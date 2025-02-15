@@ -66,6 +66,8 @@ body {
     padding: 1.25rem 2.8125rem 1.25rem 1.25rem;
 }
 
+
+
 .input-box input::placeholder {
     color: var(--color-white);
 }

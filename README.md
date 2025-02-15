@@ -1,1 +1,3 @@
-# login-register-template
+# Login-Register-Template
+
+![Captura][(img/Captura.JPG)]
